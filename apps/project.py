@@ -29,22 +29,3 @@ class Project:
         self.contracts.append(contract)
         contract.set_project(self)
         print('Договор добавлен к проекту.')
-
-
-
-
-# bob = Contract('bob')
-# bob.status = 1
-# print(bob)
-# new_project = Project('google')
-# new_project.add_contract(bob)
-# print(new_project)
-
-
-
-
-# bob = Project('bob')
-# print(bob.add_contract('google'))
-        
-    # def __str__(self):
-    #     return f'Project: {self.name}, Created: {self.create_date}, Contracts: {len(self.contracts)}'
