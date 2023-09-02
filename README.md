@@ -55,7 +55,7 @@
 
 1. Склонируйте репозиторий на свой компьютер:
 
-    + ***git clone https://github.com/yourusername/my-project.git***
+    + ***git clone https://github.com/Kylych-dev/ManagementSystem***
 
 2. Перейдите в каталог проекта:
 
